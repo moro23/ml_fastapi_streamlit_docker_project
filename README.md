@@ -13,3 +13,16 @@ while using Sreamlit to create the interface. The final part of the project is t
 8. Create API Using FastAPI 
 9. Build a web interface  for the model using Streamlit  
 19. Dockerize the application
+
+## Environment Configuration
+- Installing virtual Env
+    - pip install pipenv 
+
+- Installing Packages
+    - pipenv install jupyter notebook pandas numpy matplotlib seaborn scikit-learn fastapi streamlit
+
+- Starting Virtual Env
+    - pipenv shell 
+
+- Starting Notebook
+    - jupyter-notebook
